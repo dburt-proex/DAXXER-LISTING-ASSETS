@@ -1,0 +1,246 @@
+DAXXER Gumroad listing images · upload order per product
+
+For each product: in the Gumroad editor, upload 01-cover first and drag it to the first position (it becomes the main cover), then 02 onward in order. 00-thumb is the square thumbnail.
+All in-action images are labelled as illustrations with sample data.
+
+bills-due-desk  (TCAR-pa-asDd7SVmjjorxw==)
+  00-thumb.png
+  01-cover.png
+  02-action.png
+  03-action.png
+  04-action.png
+  05-action.png
+  06-trust.png
+
+content-approval  (z3GG_DWGUjuA9mDpgMJ2iw==)
+  00-thumb.png
+  01-cover.png
+  02-action.png
+  03-action.png
+  04-action.png
+  05-trust.png
+
+scope-change-log  (gPMTDW0N0_83D86J8jaZjw==)
+  00-thumb.png
+  01-cover.png
+  02-action.png
+  03-action.png
+  04-action.png
+  05-trust.png
+
+meeting-follow-up  (MvH_iNIUd0xDjDREfybgnQ==)
+  00-thumb.png
+  01-cover.png
+  02-action.png
+  03-action.png
+  04-action.png
+  05-trust.png
+
+client-onboarding  (rQ5_qPYPKQ778huJJWW8rA==)
+  00-thumb.png
+  01-cover.png
+  02-action.png
+  03-action.png
+  04-action.png
+  05-trust.png
+
+client-status-emails  (kcHBjO_Aat5OHMYU6YMrfQ==)
+  00-thumb.png
+  01-cover.png
+  02-action.png
+  03-action.png
+  04-action.png
+  05-trust.png
+
+calendar-timesheet  (EnYejG6Fm8y8EcOgoM1Y0A==)
+  00-thumb.png
+  01-cover.png
+  02-action.png
+  03-action.png
+  04-action.png
+  05-trust.png
+
+receipt-ledger  (2X96Ap9Gfo4ro5uuRRFbew==)
+  00-thumb.png
+  01-cover.png
+  02-action.png
+  03-action.png
+  04-action.png
+  05-trust.png
+
+doc-expiry-tracker  (Gi4LY0ArNI83XjJW0xfkYA==)
+  00-thumb.png
+  01-cover.png
+  02-action.png
+  03-action.png
+  04-action.png
+  05-trust.png
+
+service-due-reminders  (5i-74HRChSImzLgBOJyP8Q==)
+  00-thumb.png
+  01-cover.png
+  02-action.png
+  03-action.png
+  04-action.png
+  05-trust.png
+
+retainer-desk  (fNwLaNYFF6hKt4lqzpOulQ==)
+  00-thumb.png
+  01-cover.png
+  02-action.png
+  03-action.png
+  04-action.png
+  05-trust.png
+
+stock-reorder-desk  (gX_9zICvKSVOCi094QoNBA==)
+  00-thumb.png
+  01-cover.png
+  02-action.png
+  03-action.png
+  04-action.png
+  05-trust.png
+
+missed-lead-alerts  (iOy1R0m5rrE1kRHHLdTuxw==)
+  00-thumb.png
+  01-cover.png
+  02-action.png
+  03-action.png
+  04-action.png
+  05-trust.png
+
+quote-chaser  (JLSp1cwuy_QSUHBfij1UwA==)
+  00-thumb.png
+  01-cover.png
+  02-action.png
+  03-action.png
+  04-action.png
+  05-trust.png
+
+post-queue  (tuISDWFKKUumm2oNZmYPlA==)
+  00-thumb.png
+  01-cover.png
+  02-action.png
+  03-action.png
+  04-action.png
+  05-trust.png
+
+review-requests  (6NZC5Q8fzjAFZshOb5wqTw==)
+  00-thumb.png
+  01-cover.png
+  02-action.png
+  03-action.png
+  04-action.png
+  05-trust.png
+
+appointment-reminders  (ZIp5K_ksEvec1AmFUqeOxQ==)
+  00-thumb.png
+  01-cover.png
+  02-action.png
+  03-action.png
+  04-action.png
+  05-trust.png
+
+inbox-sorter  (__TO8qkcCDeJgOlWUAGxPQ==)
+  00-thumb.png
+  01-cover.png
+  02-action.png
+  03-action.png
+  04-action.png
+  05-trust.png
+
+invoice-reminders  (ZNLbJ98fELufp2FEkUM1Bg==)
+  00-thumb.png
+  01-cover.png
+  02-action.png
+  03-action.png
+  04-action.png
+  05-trust.png
+
+lead-intake  (ZjEguSOABaZ0ED2csnAW3A==)
+  00-thumb.png
+  01-cover.png
+  02-action.png
+  03-action.png
+  04-action.png
+  05-trust.png
+
+daily-ops-digest  (QbAeS12VBcguIGKPWvwn5Q==)
+  00-thumb.png
+  01-cover.png
+  02-action.png
+  03-action.png
+  04-action.png
+  05-trust.png
+
+ops-starter-pack  (b7iHkGeLYt1MoydrMMCXuA==)
+  00-thumb.png
+  01-cover.png
+  02-action.png
+  03-action.png
+  04-action.png
+  05-trust.png
+
+ai-controls-kit  (fxPeIsCNNUKmur1R5sVquQ==)
+  00-thumb.png
+  01-cover.png
+  02-action.png
+  03-action.png
+  04-action.png
+  05-trust.png
+
+sovra-operator-layer  (xlDWrv1QBuGE7EXv7DPL5Q==)
+  00-thumb.png
+  01-cover.png
+  02-action.png
+  03-action.png
+  04-trust.png
+
+prompt-blueprint  (281-3PvvZFDIMOz7jv6cGQ==)
+  00-thumb.png
+  01-cover.png
+  02-action.png
+  03-action.png
+  04-action.png
+  05-trust.png
+
+workflow-audit  (qJn5ZW6Mwpv7ylH6ZEAy7Q==)
+  00-thumb.png
+  01-cover.png
+  02-action.png
+  03-action.png
+  04-trust.png
+
+work-to-content-os  (0Uo-HeofMWiMOCD3T6ifZg==)
+  00-thumb.png
+  01-cover.png
+  02-action.png
+  03-action.png
+  04-trust.png
+
+ready-set-prompt  (J1pskPJVewkj0hRHYmXDww==)
+  00-thumb.png
+  01-cover.png
+  02-action.png
+  03-action.png
+  04-trust.png
+
+dfy-14-days  (Tie5EVPiila1SKd99TF50w==)
+  00-thumb.png
+  01-cover.png
+  02-action.png
+  03-action.png
+  04-trust.png
+
+dfy-walkthrough  (xsq7ZOa6JC_z_woxjjyhsA==)
+  00-thumb.png
+  01-cover.png
+  02-action.png
+  03-action.png
+  04-trust.png
+
+dfy-single  (eIXO06xQpV9zxWRayvSflw==)
+  00-thumb.png
+  01-cover.png
+  02-action.png
+  03-action.png
+  04-trust.png
